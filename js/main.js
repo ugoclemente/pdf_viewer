@@ -1,4 +1,4 @@
-const url = '../docs/pdf.pdf';
+const url = 'https://github.com/ugoclemente/pdf_viewer/tree/gh-pages/docs/pdf.pdf';
 
 let pdfDoc = null,
   pageNum = 1,
